@@ -4,13 +4,15 @@
     box-sizing: border-box; 
 }
 body {
-    max-width: 1200px;
-    margin: auto;
     background-color: black;
 }
 .pic-paralax{
     height: 500px;
     overflow: hidden;
+}
+.container {
+    max-width: 1200px;
+    margin: auto;
 }
 .main-pic{
     width: 100%;
