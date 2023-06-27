@@ -1,4 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
 body {
+    max-width: 1200px;
+    margin: auto;np
     background-color: black;
 }
 .pic-paralax{
