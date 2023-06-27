@@ -7,7 +7,7 @@ body {
     background-color: black;
 }
 .pic-paralax{
-    height: 500px;
+    height: 800px;
     overflow: hidden;
 }
 .container {
@@ -17,6 +17,9 @@ body {
 .main-pic{
     width: 100%;
     transform: translate3d(0, 0, 0);
+}
+.main-pic2{
+    width: 100%;
 }
 .pics {
     position: fixed;
@@ -141,7 +144,7 @@ body {
 }
 .inBlock {
     border-radius: 20px;
-    margin-top: -10px;
+    margin-top: 10px;
     margin-bottom: 15px;
 }
 .upper{
